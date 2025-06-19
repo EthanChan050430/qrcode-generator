@@ -41,3 +41,6 @@ cd qrcode-generator
 ## 许可证
 
 MIT © [EthanChan050430](https://github.com/EthanChan050430)
+
+
+![ba](https://i0.hdslb.com/bfs/article/58370982576a827f887eb1dba63b38d2354558777.gif)
